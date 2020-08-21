@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I am Laura. 👋
 
-<!--
-**lauraromerosantos/lauraromerosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Hi! My name is Laura Romero, I'm from Brazil 🇧🇷Currently studying System Analysis and Development at Senac, Porto Alegre. 
 
-Here are some ideas to get you started:
+I'm an avid reader and a passionate coder. I always aim to acquire and develop new knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📍 From RS living in Porto Alegre
+-  👩🏻‍💻 Beginner Full Stack Developer
+- 🎯  Sharing a little of my journey at [GitHub](https://github.com/lauraromerosantos?tab=repositories)
+- 📚I'm currently learning:
+			-   Algorithms and Programming II
+			-   Internet Programming II
+			-  Software Engineering II
+			-   Database II
+			-  Computer Organization
+- 📫 How to reach me: laauraromero.s@gmail.com
+#####  🤓 "Growth is a process" 🧠
