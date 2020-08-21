@@ -14,7 +14,7 @@ I'm an avid reader and a passionate coder. I always aim to acquire and develop n
 			-  Software Engineering II
 			-   Database II
 			-  Computer Organization
-- 📫 How to reach me: 👇
+- 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-lauraaromero.s@gmail.com-ff69b4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauraaromero.s@gmail.com)](mailto:laauraromero.s@gmail.com)
 
 #####  🤓 "Growth is a process" 🧠
