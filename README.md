@@ -18,3 +18,4 @@ I'm an avid reader and a passionate coder. I always aim to acquire and develop n
 
 #####  🤓 "Growth is a process" 🧠
 
+![](https://komarev.com/ghpvc/?username=lauraromerosantos&color=ff69b4)
