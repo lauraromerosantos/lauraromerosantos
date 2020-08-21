@@ -1,7 +1,7 @@
 # Hi there, I am Laura. 👋
 
 ### About me
-Hi! My name is Laura Romero, I'm from Brazil 🇧🇷 Currently studying System Analysis and Development at Senac, Porto Alegre. 
+Hi! My name is Laura Romero, I'm from Brazil 🇧🇷 Currently studying System Analysis and Development at FSPOA. 
 
 I'm an avid reader and a passionate coder. I always aim to acquire and develop new knowledge.
 
