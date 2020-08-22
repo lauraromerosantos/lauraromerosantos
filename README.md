@@ -1,4 +1,4 @@
-# Hi there, I am Laura. 👋
+#  👋 Hi there, I am Laura. <img src="https://github.com/gstvds/gstvds/blob/master/assets/mario.gif" width="35px">
 
 ### About me
 Hi! My name is Laura Romero, I'm from Brazil 🇧🇷 Currently studying System Analysis and Development at FSPOA. 
@@ -22,3 +22,5 @@ I'm an avid reader and a passionate coder. I always aim to acquire and develop n
 ![](https://komarev.com/ghpvc/?username=lauraromerosantos&color=ff69b4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraromerosantos&layout=compact)](https://github.com/lauraromerosantos/github-readme-Estatísticas)
+
+![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/13490305/87845761-8fbbe600-c8a0-11ea-9d25-0244f35647f2.gif)
