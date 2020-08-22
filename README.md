@@ -15,6 +15,7 @@ I'm an avid reader and a passionate coder. I always aim to acquire and develop n
 	-   Database II
 	-  Computer Organization
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laauraromero.s@gmail.com)](mailto:laauraromero.s@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lauraromerosantos?tab=repositories)](https://github.com/lauraromerosantos?tab=repositories)
 
 #####  🤓 "Growth is a process" 🧠
 
