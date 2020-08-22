@@ -3,7 +3,6 @@
 Hi! My name is Laura Romero, I'm from Brazil 🇧🇷 Currently studying System Analysis and Development at FSPOA. 
 I'm an avid reader and a passionate coder. I always aim to acquire and develop new knowledge.
 
--  📍 From RS living in Porto Alegre
 -  👩🏻‍💻 Beginner Full Stack Developer
 - 🎯  Sharing a little of my journey at [GitHub](https://github.com/lauraromerosantos?tab=repositories)
 - 📚I'm currently learning:
