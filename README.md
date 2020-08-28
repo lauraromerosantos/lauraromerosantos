@@ -1,5 +1,5 @@
 ## Hi there, I am Laura. 👋
-### About me <img src="https://github.com/gstvds/gstvds/blob/master/assets/mario.gif" width="35px">
+### About me <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="60px">
 Hi! My name is Laura Romero, I'm from Brazil 🇧🇷 Currently studying System Analysis and Development at FSPOA. 
 I'm an avid reader and a passionate coder. I always aim to acquire and develop new knowledge.
 
